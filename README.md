@@ -13,20 +13,9 @@
 ---
 
 ### 💡 Sobre mim
-🔥 Desenvolvedor **Full Stack em formação** pela EBAC  
-💬 Focado em **HTML | CSS | JS | Python | APIs | WebSockets**  
+🔥 Desenvolvedor **Full Stack em formação** pela EBAC   
 ⚡ Construindo **projetos reais** e **automatizando ideias** que viram código.  
 🎯 Objetivo: unir **design, performance e lógica** em cada linha.
-
----
-
-### ⚙️ O que estou fazendo agora
-- 🚧 Criando uma **API de Chat em Tempo Real** com **WebSocket**
-- 🌐 Frontend hospedado no **Vercel**
-- 🧠 Backend no **Railway**
-- 🐍 Estudando **Estrutura de Dados em Python**
-
----
 
 ### 🔥 Meus Projetos
 🧩 [Disco de César - Cifra Animada](https://github.com/henryoriondev/disco-de-cesar)  
