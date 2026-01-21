@@ -18,9 +18,7 @@
 🎯 Objetivo: unir **design, performance e lógica** em cada linha.
 
 ### 🔥 Meus Projetos
-🧩 [Disco de César - Cifra Animada](https://github.com/henryoriondev/disco-de-cesar)  
-💬 [Chat Realtime API (WebSocket)](https://github.com/henryoriondev/chat-realtime-api)  
-📚 [BookStore API - Django REST Framework](https://github.com/henryoriondev/bookstore-api)
+🧩 [Calculadora - Python](https://github.com/henryoriondev/Calculadora_HenryPRO_Python) 
 
 ---
 
