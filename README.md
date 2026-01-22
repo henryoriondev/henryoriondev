@@ -21,7 +21,9 @@
 
 🧩 [Calculadora - Python](https://github.com/henryoriondev/Calculadora_HenryPRO_Python) 
 
-🧩 [TO-DO List - Python](https://github.com/henryoriondev/Bloquinho_de_Tarefas_Python)
+🧩 [TO-DO List - Python](https://github.com/henryoriondev/Bloquinho_de_Tarefas_Python) 
+
+🧩 [Analisador de Gastos - Python](https://github.com/henryoriondev/Analisador_de_Gastos_Python)
 
 ---
 
