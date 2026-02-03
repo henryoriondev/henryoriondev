@@ -29,13 +29,5 @@ Aplicação simples para reforço de CRUD básico, funções e organização.
 🧩 [Analisador de Gastos – Python](https://github.com/henryoriondev/Analisador_de_Gastos_Python)  
 Projeto de análise de dados com foco em leitura, tratamento e organização de informações.
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryoriondev&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=henryoriondev&theme=radical&hide_border=true)
-
-
----
+🧩 [Data Insights Case Janeiro Pandas](https://github.com/henryoriondev/DataInsights_CaseJaneiro_Pandas)
+Projeto de análise de dados com Pandas que simula um cenário real de vendas, aplicando ingestão, limpeza, processamento e regras de negócio para gerar um dataset confiável, pronto para análises financeiras e apoio à tomada de decisão.
