@@ -31,10 +31,11 @@ Projeto de análise de dados com foco em leitura, tratamento e organização de 
 
 ---
 
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryoriondev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henryoriondev&theme=radical&hide_border=true"/>
-</p>
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryoriondev&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=henryoriondev&theme=radical&hide_border=true)
+
 
 ---
