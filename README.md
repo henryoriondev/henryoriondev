@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Henry Orion | Desenvolvedor Web Full Stack</h1>
+<h1 align="center">🚀 Henry Orion | Desenvolvedor Web Full Stack Júnior</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -13,21 +13,25 @@
 ---
 
 ### 💡 Sobre mim
-🔥 Desenvolvedor **Full Stack em formação** pela EBAC   
-⚡ Construindo **projetos reais** e **automatizando ideias** que viram código.  
-🎯 Objetivo: unir **design, performance e lógica** em cada linha.
-
-### 🔥 Meus Projetos
-
-🧩 [Calculadora - Python](https://github.com/henryoriondev/Calculadora_HenryPRO_Python) 
-
-🧩 [TO-DO List - Python](https://github.com/henryoriondev/Bloquinho_de_Tarefas_Python) 
-
-🧩 [Analisador de Gastos - Python](https://github.com/henryoriondev/Analisador_de_Gastos_Python)
+Desenvolvedor **Full Stack Júnior em formação** pela EBAC, com foco em **fundamentos sólidos**, boas práticas e desenvolvimento de **projetos práticos**.  
+Tenho interesse em aprender continuamente, evoluir tecnicamente e contribuir com soluções simples, eficientes e bem estruturadas.
 
 ---
 
-### 📈 Estatísticas
+### 🔥 Projetos de Estudo e Prática
+
+🧩 [Calculadora – Python](https://github.com/henryoriondev/Calculadora_HenryPRO_Python)  
+Projeto voltado para prática de lógica de programação e estruturação de código.
+
+🧩 [To-Do List – Python](https://github.com/henryoriondev/Bloquinho_de_Tarefas_Python)  
+Aplicação simples para reforço de CRUD básico, funções e organização.
+
+🧩 [Analisador de Gastos – Python](https://github.com/henryoriondev/Analisador_de_Gastos_Python)  
+Projeto de análise de dados com foco em leitura, tratamento e organização de informações.
+
+---
+
+### 📈 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryoriondev&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henryoriondev&theme=radical&hide_border=true"/>
