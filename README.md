@@ -20,7 +20,7 @@ Tenho interesse em aprender continuamente, evoluir tecnicamente e contribuir com
 
 ### 🔥 Projetos de Estudo e Prática
 
-🧩 [Calculadora – Python](https://github.com/henryoriondev/lms-flask-api)
+🧩 [LMS - FLASK - API – Python](https://github.com/henryoriondev/lms-flask-api)
 API REST desenvolvida com Flask, SQLAlchemy, JWT, Pytest e Docker, focada em autenticação, testes automatizados e deploy em produção.
 
 🧩 [Calculadora – Python](https://github.com/henryoriondev/Calculadora_HenryPRO_Python)  
